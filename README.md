@@ -1,7 +1,9 @@
 # AE-502-Homework-Project-2-
 
+the codes are based on the ch 12 from Curtis book and Appendix D
+
 The code named "Example_12.6" validates the Gauss variational/planetary equations
-by plotting them over a time of 2days.  
+by plotting them over a time of 2days.
 
 The code named "Gauss_variational_eqns" plots the Gauss variation equations for
 hw/proj 2 question 3 for a Molniya orbit: a = 26600km, i = 1.10654rad, e = 0.74, 
